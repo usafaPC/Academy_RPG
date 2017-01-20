@@ -1,7 +1,7 @@
 # Academy_RPG
 
--Movement\n
-  -WASD\n
+-Movement
+  -WASD
 -Weapons
   -Directional buttons
     -Projectile:
